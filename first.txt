@@ -1,2 +1,2 @@
-aa
+aa: feature1
 aa: feature2
